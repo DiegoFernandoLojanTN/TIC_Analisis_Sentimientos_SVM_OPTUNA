@@ -1,0 +1,18 @@
+{
+  "tweets_count": 991,
+  "tweets_personales": 203,
+  "tweets_filtrados": 2005,
+  "estadisticas": {
+    "crisis_energetica": 0,
+    "contexto_ecuador": 0,
+    "estres_directo": 159,
+    "manifestaciones_fisicas": 139,
+    "manifestaciones_psicologicas": 290,
+    "expresiones_malestar": 155,
+    "impacto_actividades": 248
+  },
+  "tweet_ids": [
+    "1851103124934541503"
+  ],
+  "timestamp": "2025-03-20T13:41:35.677475"
+}

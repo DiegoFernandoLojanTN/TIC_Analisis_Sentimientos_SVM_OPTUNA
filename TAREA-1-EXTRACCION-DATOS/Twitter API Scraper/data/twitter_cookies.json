@@ -1,0 +1,14 @@
+{
+    "essential_cookies": {
+      "_twitter_sess": "TU_VALOR_AQUI (sesión activa)",
+      "auth_token": "TU_VALOR_AQUI (token permanente)",
+      "ct0": "TU_VALOR_AQUI (token CSRF)"
+    },
+    
+    "optional_cookies": {
+      "guest_id": "v1%3A... (ID de invitado)",
+      "personalization_id": "v1_... (para personalización)"
+    },
+  
+    "_security_notice": "Este archivo real debe llamarse 'twitter_cookies.json'"
+  }
