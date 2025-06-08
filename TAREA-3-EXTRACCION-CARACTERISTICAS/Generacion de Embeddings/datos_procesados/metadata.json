@@ -1,0 +1,18 @@
+{
+    "dimensiones": [
+        4750,
+        128
+    ],
+    "balance_clases": {
+        "0": 2375,
+        "1": 2375
+    },
+    "fecha_procesamiento": "2025-05-03 13:19:03",
+    "normalizacion": "StandardScaler",
+    "modelo_embeddings": "FastText",
+    "parametros_smote": {
+        "sampling_strategy": "auto",
+        "k_neighbors": 5,
+        "random_state": 42
+    }
+}

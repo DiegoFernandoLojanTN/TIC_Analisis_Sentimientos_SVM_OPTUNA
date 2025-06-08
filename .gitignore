@@ -1,0 +1,6 @@
+# Ignorar archivos grandes de embeddings
+*.npy
+
+# Ignorar checkpoints y temporales de Jupyter
+.ipynb_checkpoints/
+
