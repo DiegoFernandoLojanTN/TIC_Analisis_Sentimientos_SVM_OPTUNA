@@ -164,7 +164,6 @@ Distribuido bajo licencia MIT. Ver archivo `LICENSE` para más información.
 
 - **Autor Principal:** Diego Fernando Lojan Tenesaca
 - **Director:** Ing. Luis Antonio Chamba Eras, PhD  
-- **Repositorio:** [[https://github.com/tu-usuario/deteccion-estres-redes](https://github.com/tu-usuario/deteccion-estres-redes)](https://github.com/DiegoFernandoLojanTN/TIC_Analisis_Sentimientos_SVM_OPTUNA.git)
 
 ## Referencias Técnicas
 
